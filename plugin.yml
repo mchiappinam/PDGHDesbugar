@@ -1,0 +1,9 @@
+name: PDGHDesbugar
+main: me.mchiappinam.pdghdesbugar.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.com.br/
+commands:
+   desbugar:
+      usage: /<command>
+      aliases: d
